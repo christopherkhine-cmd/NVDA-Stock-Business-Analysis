@@ -10,7 +10,7 @@ NVIDIA reported second-quarter fiscal 2027 revenue of $96.2 billion, up 106% fro
 
 ## Stock Market Analysis
 
-This section will examine NVIDIA’s stock-price performance and major changes over time.
+From October 30, 2025, through October 29, 2026, NVIDIA’s closing stock price increased from $202.89 to $213.66, a gain of approximately 5.31%. During this period, the closing price reached a low of $165.17 on March 30, 2026, and a high of $239.24 on October 6, 2026. The chart shows that NVIDIA’s stock experienced significant short-term fluctuations while producing an overall gain during the period analyzed.
 
 ## Industry and Competitors
 
