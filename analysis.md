@@ -24,8 +24,7 @@ This marketing strategy can strengthen customer demand and brand value, which ma
 
 ## Conclusion
 
-This project will evaluate how NVIDIA’s financial performance, stock-market activity, industry position, and business strategy are connected.
-
+NVIDIA’s strong financial growth is closely connected to demand for artificial intelligence and data-center technology. Its stock price experienced normal fluctuations but showed an overall upward trend during the year analyzed. NVIDIA’s brand reputation, partnerships, and position in the AI industry may continue to support customer demand and investor interest. However, investors should also consider competition, changing technology, supply constraints, and market risks.
 ## Sources
 
 NVIDIA Q2 Fiscal 2027 Results:
