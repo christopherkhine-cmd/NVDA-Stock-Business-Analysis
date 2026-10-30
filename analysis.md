@@ -14,7 +14,7 @@ From October 30, 2025, through October 29, 2026, NVIDIA’s closing stock price 
 
 ## Industry and Competitors
 
-NVIDIA operates in the artificial intelligence and semiconductor industries. Major competitors include AMD and Intel.
+NVIDIA competes with AMD and Intel in the semiconductor, computing, and artificial intelligence industries. AMD offers graphics and data-center products, while Intel focuses on processors, data-center hardware, and AI-related technology. NVIDIA differentiates itself through its combination of GPUs, networking hardware, and software tools. This ecosystem may create strong customer loyalty, but competition and rapid changes in technology remain important risks.
 
 ## Marketing and Business Strategy
 
