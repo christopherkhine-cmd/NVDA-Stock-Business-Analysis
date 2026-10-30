@@ -6,7 +6,7 @@ NVIDIA is a technology company known for developing graphics processors, artific
 
 ## Financial Analysis
 
-This section will examine NVIDIA’s revenue, profit, and financial growth.
+NVIDIA reported fiscal 2026 revenue of $215.9 billion, which increased 65% from fiscal 2025. Net income was $120.1 billion, up 65%, while operating income was $130.4 billion, up 60%. Diluted earnings per share increased 67% to $4.90. The results show strong financial growth connected to demand for artificial intelligence and data-center technology
 
 ## Stock Market Analysis
 
