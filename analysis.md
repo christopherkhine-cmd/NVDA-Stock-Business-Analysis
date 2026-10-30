@@ -28,4 +28,11 @@ This project will evaluate how NVIDIA’s financial performance, stock-market ac
 
 ## Sources
 
-Sources will be added as research is completed.
+NVIDIA Q2 Fiscal 2027 Results:
+https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/
+
+NVIDIA SEC Quarterly Report:
+https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm
+
+Yahoo Finance Historical Data:
+https://finance.yahoo.com/quote/NVDA/history/
